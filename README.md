@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(December 8th, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Gavin McGuinness)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(The assignment had me work along with and improve a movie search database.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://ghm14.github.io/lesson8_ajax/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (JSON is a subset of JavaScript.)
+2. (JSON is a simple and common representation of data.)
+3. (Allows client web pages to quickly interact and exchange data with a web server. You don't even have to reload the page.)
